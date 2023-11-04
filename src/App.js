@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Front Locadora</h1>  
+      <h1>Front Locadora teste</h1>  
     </div>
   );
 }
